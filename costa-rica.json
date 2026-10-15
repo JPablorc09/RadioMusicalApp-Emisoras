@@ -220,7 +220,7 @@
   "logoUrl": "",
   "codec": "AAC",
   "bitrate": 0,
-  "activo": false
+  "activo": true
 },
 {
   "id": "radio-88-stereo",
@@ -231,7 +231,7 @@
   "logoUrl": "",
   "codec": "AAC",
   "bitrate": 0,
-  "activo": false
+  "activo": true
 },
 {
   "id": "radio-maria-costa-rica",
@@ -242,7 +242,7 @@
   "logoUrl": "",
   "codec": "MP3",
   "bitrate": 0,
-  "activo": false
+  "activo": true
 }
 
 
