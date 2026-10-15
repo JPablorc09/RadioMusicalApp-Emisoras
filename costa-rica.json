@@ -277,7 +277,42 @@
   "codec": "MP3",
   "bitrate": 0,
   "activo": true
+},
+  
+{
+  "id": "radio-hit-1047",
+  "nombre": "Radio Hit 104.7 FM",
+  "provincia": "San José",
+  "genero": "Rock, Pop, Alternativa",
+  "streamUrl": "https://live.turadio.stream:7004/stream",
+  "logoUrl": "",
+  "codec": "MP3",
+  "bitrate": 64,
+  "activo": true
+},
+{
+  "id": "la-mejor-991",
+  "nombre": "La Mejor 99.1 FM",
+  "provincia": "San José",
+  "genero": "Cumbia, Salsa, Merengue, Bachata",
+  "streamUrl": "http://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": true
+},
+{
+  "id": "crc-radio-891",
+  "nombre": "CRC 89.1 Radio",
+  "provincia": "San José",
+  "genero": "Noticias, Deportes, Actualidad",
+  "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 32,
+  "activo": true
 }
+
 
 
 
