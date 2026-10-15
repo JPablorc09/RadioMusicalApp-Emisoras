@@ -210,7 +210,42 @@
   "codec": "MP3",
   "bitrate": 0,
   "activo": true
+},
+  
+{
+  "id": "radio-disney-costa-rica",
+  "nombre": "Radio Disney Costa Rica 101.1 FM",
+  "provincia": "San José",
+  "genero": "Pop, Éxitos, Top 40",
+  "streamUrl": "http://d1pqwktrrc385d.cloudfront.net/radios/disneycr.m3u8",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": false
+},
+{
+  "id": "radio-88-stereo",
+  "nombre": "Radio 88 Stereo 88.7 FM",
+  "provincia": "Puntarenas",
+  "genero": "Pop Latino, Reggaetón, Tropical",
+  "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": false
+},
+{
+  "id": "radio-maria-costa-rica",
+  "nombre": "Radio María Costa Rica 100.7 FM",
+  "provincia": "San José",
+  "genero": "Religiosa, Católica",
+  "streamUrl": "http://dreamsiteradiocp2.com:8044/stream",
+  "logoUrl": "",
+  "codec": "MP3",
+  "bitrate": 0,
+  "activo": false
 }
+
 
 
 ]
