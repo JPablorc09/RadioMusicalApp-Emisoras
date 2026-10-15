@@ -1,1 +1,113 @@
-[]
+
+[
+  {
+    "id": "radio-musical-975",
+    "nombre": "Radio Musical 97.5 FM",
+    "provincia": "San José",
+    "genero": "Romántica",
+    "streamUrl": "https://live.turadio.stream:7005/stream",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "activo": true
+  },
+  {
+    "id": "radio-dos",
+    "nombre": "Radio Dos",
+    "provincia": "San José",
+    "genero": "Pop, Rock, Clásicos",
+    "streamUrl": "https://s5.radio.co/sd515b7b34/listen",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "activo": true
+  },
+  {
+    "id": "radio-sinfonola",
+    "nombre": "Radio Sinfonola",
+    "provincia": "San José",
+    "genero": "Clásicos, Música Latina",
+    "streamUrl": "https://live.turadio.stream:7006/",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "activo": true
+  },
+  {
+    "id": "columbia-estereo",
+    "nombre": "Columbia Estéreo 92.7 FM",
+    "provincia": "San José",
+    "genero": "Baladas, Romántica",
+    "streamUrl": "https://s5.radio.co/sca838cc60/listen",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "activo": true
+  },
+  {
+    "id": "faro-del-caribe",
+    "nombre": "Faro del Caribe",
+    "provincia": "San José",
+    "genero": "Cristiana",
+    "streamUrl": "https://sp.unoredcdn.net/8032/stream",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "activo": true
+  },
+  {
+    "id": "radio-hit-1047",
+    "nombre": "Radio Hit 104.7 FM",
+    "provincia": "San José",
+    "genero": "Pop, Éxitos",
+    "streamUrl": "https://live.turadio.stream:7004/stream",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "activo": true
+  },
+  {
+    "id": "radio-nosara",
+    "nombre": "Radio Nosara",
+    "provincia": "Guanacaste",
+    "genero": "Música Latina",
+    "streamUrl": "https://sonicpanel.zonaradio.net/8038/stream",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "activo": true
+  },
+  {
+    "id": "jazz-radio-955",
+    "nombre": "95.5 Jazz Radio",
+    "provincia": "Costa Rica",
+    "genero": "Jazz",
+    "streamUrl": "https://streaming.radio.co/s36bd2a451/listen",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "activo": true
+  },
+  {
+    "id": "urbano-106",
+    "nombre": "Urbano 106",
+    "provincia": "San José",
+    "genero": "Urbana",
+    "streamUrl": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+    "logoUrl": "",
+    "codec": "AAC",
+    "bitrate": 64,
+    "activo": true
+  },
+  {
+    "id": "club-dance-music",
+    "nombre": "Club Dance Music",
+    "provincia": "Costa Rica",
+    "genero": "Electrónica, Dance",
+    "streamUrl": "https://stream.zeno.fm/5x4sda9kxtzuv",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "activo": true
+  }
+]
