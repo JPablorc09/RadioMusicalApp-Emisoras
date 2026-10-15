@@ -243,7 +243,19 @@
   "codec": "MP3",
   "bitrate": 0,
   "activo": true
+},
+{
+  "id": "stereo-vision-983",
+  "nombre": "Stereo Visión 98.3 FM",
+  "provincia": "Cartago",
+  "genero": "Cristiana, Música Religiosa",
+  "streamUrl": "http://streams.y2kwebs.com:9984/;",
+  "logoUrl": "",
+  "codec": "MP3",
+  "bitrate": 0,
+  "activo": true
 }
+
 
 
 
