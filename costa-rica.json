@@ -150,7 +150,7 @@
   "nombre": "Radio Monumental 93.5 FM",
   "provincia": "San José",
   "genero": "Noticias, Deportes",
-  "streamUrl": ""streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/zbzsy31mnb4q/3/index.m3u8"",
+  "streamUrl": "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/zbzsy31mnb4q/3/index.m3u8",
   "logoUrl": "",
   "codec": "AAC",
   "bitrate": 0,
