@@ -6,7 +6,7 @@
     "provincia": "San José",
     "genero": "Romántica",
     "streamUrl": "https://live.turadio.stream:7005/stream",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15700/27598/conversions/DniJkBrcyVoHQqpTuucX8BtO6SkpFs-metaYzMwMC5wbmc%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 64,
     "activo": true
@@ -17,7 +17,7 @@
     "provincia": "San José",
     "genero": "Pop, Rock, Clásicos",
     "streamUrl": "https://s5.radio.co/sd515b7b34/listen",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15764/27902/conversions/kUFOa05teOPYrZHbgeqTwuVRRqJAlf-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8ucG5n--lg.webp",
     "codec": "MP3",
     "bitrate": 128,
     "activo": true
@@ -28,7 +28,7 @@
     "provincia": "San José",
     "genero": "Clásicos, Música Latina",
     "streamUrl": "https://live.turadio.stream:7006/",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15862/28678/conversions/ESKFoK4kr4tYijxqBP5mts0jp0A42g-metaaW5kZXgucG5n--lg.webp",
     "codec": "MP3",
     "bitrate": 64,
     "activo": true
@@ -39,7 +39,7 @@
     "provincia": "San José",
     "genero": "Baladas, Romántica",
     "streamUrl": "https://s5.radio.co/sca838cc60/listen",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16000/29438/conversions/l4i6Ela3SYpJIN3Jfb5x8UHEt4NAXP-metaaW1hZ2VtMDUwMjA1MTcxNDQwNTc2LmpwZw%3D%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 96,
     "activo": true
@@ -50,7 +50,7 @@
     "provincia": "San José",
     "genero": "Cristiana",
     "streamUrl": "https://sp.unoredcdn.net/8032/stream",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16049/29797/conversions/eeoZPXru4dxxHnQE8If63AmtsxGrXk-metaZmFyb2RlbGNhcmliZWxvZ28uanBn--lg.webp",
     "codec": "MP3",
     "bitrate": 128,
     "activo": true
@@ -59,9 +59,9 @@
     "id": "radio-hit-1047",
     "nombre": "Radio Hit 104.7 FM",
     "provincia": "San José",
-    "genero": "Pop, Éxitos",
+    "genero": "Rock, Pop, Alternativa",
     "streamUrl": "https://live.turadio.stream:7004/stream",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16004/29480/conversions/EAUoONxpWYDjC5OKHQeR2H8xeEm711-metabG9nby1yYWRpby1oaXQuanBn--lg.webp",
     "codec": "MP3",
     "bitrate": 64,
     "activo": true
@@ -83,7 +83,7 @@
     "provincia": "Costa Rica",
     "genero": "Jazz",
     "streamUrl": "https://streaming.radio.co/s36bd2a451/listen",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16346/32340/conversions/x5KAu5kQiyNLxmmLKsQ173KBa8ZZZw-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8uamZpZg%3D%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 128,
     "activo": true
@@ -94,7 +94,7 @@
     "provincia": "San José",
     "genero": "Urbana",
     "streamUrl": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
-    "logoUrl": "",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16019/46143/conversions/QRk90teMCodXxtqMLexapY8r8xucwQ-metabG9nbyB1cmJhbm8gbmVncm8ucG5n--lg.webp",
     "codec": "AAC",
     "bitrate": 64,
     "activo": true
@@ -110,227 +110,202 @@
     "bitrate": 128,
     "activo": true
   },
-  
-{
-  "id": "radio-omega-1051",
-  "nombre": "Radio Omega 105.1 FM",
-  "provincia": "San José",
-  "genero": "Pop, Salsa, Música Latina",
-  "streamUrl": "https://centova.hostingtico.com:7008/;",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 32,
-  "activo": true
-},
-{
-  "id": "besame-899",
-  "nombre": "Bésame 89.9 FM",
-  "provincia": "San José",
-  "genero": "Romántica, Pop",
-  "streamUrl": "https://mdstrm.com/audio/67377c6b827a7efae2faf358/live.m3u8?property=",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "frecuencia-cci",
-  "nombre": "Frecuencia CCI",
-  "provincia": "San José",
-  "genero": "Cristiana, Gospel",
-  "streamUrl": "https://streaming.radio.co/s6729aeaac/listen",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 192,
-  "activo": true
-},
-  
-{
-  "id": "radio-monumental-935",
-  "nombre": "Radio Monumental 93.5 FM",
-  "provincia": "San José",
-  "genero": "Noticias, Deportes",
-  "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/zbzsy31mnb4q/3/index.m3u8",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "los-40-costa-rica",
-  "nombre": "Los 40 Costa Rica",
-  "provincia": "San José",
-  "genero": "Pop, Éxitos",
-  "streamUrl": "https://mdstrm.com/audio/67377bb4b95cc90e1002a0fc/live.m3u8?property=",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "columbia-radio-987",
-  "nombre": "Columbia Radio 98.7 FM",
-  "provincia": "San José",
-  "genero": "Noticias, Deportes",
-  "streamUrl": "https://s2.radio.co/s83b86382e/listen",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "la-caliente-907",
-  "nombre": "La Caliente 90.7 FM",
-  "provincia": "San José",
-  "genero": "Tropical, Salsa, Regional Mexicana",
-  "streamUrl": "https://mdstrm.com/audio/672d00c08cff752b2de2dc1f/live.m3u8?property=",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "exa-fm-costa-rica",
-  "nombre": "Exa FM Costa Rica",
-  "provincia": "San José",
-  "genero": "Pop, Dance, Entretenimiento",
-  "streamUrl": "https://d1rz8hhqbmi68h.cloudfront.net/3_2/index.m3u8",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "clasicos-costa-rica-espanol",
-  "nombre": "Clásicos Costa Rica Español",
-  "provincia": "San José",
-  "genero": "Clásicos, Música del Recuerdo",
-  "streamUrl": "https://phoebe.streamerr.co:2140/;",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "radio-disney-costa-rica",
-  "nombre": "Radio Disney Costa Rica 101.1 FM",
-  "provincia": "San José",
-  "genero": "Pop, Éxitos, Top 40",
-  "streamUrl": "https://26563.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/a6441c86-cdd8-4e7c-a0c6-f42e41c1f557/0/playlist.m3u8",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "radio-88-stereo",
-  "nombre": "Radio 88 Stereo 88.7 FM",
-  "provincia": "Puntarenas",
-  "genero": "Pop Latino, Reggaetón, Tropical",
-  "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "radio-maria-costa-rica",
-  "nombre": "Radio María Costa Rica 100.7 FM",
-  "provincia": "San José",
-  "genero": "Religiosa, Católica",
-  "streamUrl": "http://dreamsiteradiocp2.com:8044/stream",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "stereo-vision-983",
-  "nombre": "Stereo Visión 98.3 FM",
-  "provincia": "Cartago",
-  "genero": "Cristiana, Música Religiosa",
-  "streamUrl": "http://streams.y2kwebs.com:9984/;",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 0,
-  "activo": false
-},
-  
-{
-  "id": "radio-lira-887",
-  "nombre": "Radio Lira 88.7 FM",
-  "provincia": "Alajuela",
-  "genero": "Cristiana, Religiosa, Música",
-  "streamUrl": "http://streams.y2kwebs.com:9962/;",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 0,
-  "activo": true
-},
-{
-  "id": "radio-shock-1063",
-  "nombre": "Radio Shock 106.3 FM",
-  "provincia": "Cartago",
-  "genero": "Rock, Pop, Baladas",
-  "streamUrl": "http://streams.y2kwebs.com:9986/;",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 0,
-  "activo": true
-},
-  
-{
-  "id": "radio-hit-1047",
-  "nombre": "Radio Hit 104.7 FM",
-  "provincia": "San José",
-  "genero": "Rock, Pop, Alternativa",
-  "streamUrl": "https://live.turadio.stream:7004/stream",
-  "logoUrl": "",
-  "codec": "MP3",
-  "bitrate": 64,
-  "activo": true
-},
-
-{
-  "id": "la-mejor-991",
-  "nombre": "La Mejor 99.1 FM",
-  "provincia": "San José",
-  "genero": "Cumbia, Salsa, Merengue, Bachata",
-  "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/7tkjz1kikav2/3_2/index.m3u8",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-},
-
-{
-  "id": "crc-radio-891",
-  "nombre": "CRC 89.1 Radio",
-  "provincia": "San José",
-  "genero": "Noticias, Deportes, Actualidad",
-  "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 32,
-  "activo": true
-},
-  
-{
-  "id": "zeta-fm-951",
-  "nombre": "Zeta FM 95.1",
-  "provincia": "San José",
-  "genero": "Salsa, Merengue, Bachata, Música Latina",
-  "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/g8hyucsfmkh9/3_2/index.m3u8",
-  "logoUrl": "",
-  "codec": "AAC",
-  "bitrate": 0,
-  "activo": true
-}
-
-
-
-
-
-
-
+  {
+    "id": "radio-omega-1051",
+    "nombre": "Radio Omega 105.1 FM",
+    "provincia": "San José",
+    "genero": "Pop, Salsa, Música Latina",
+    "streamUrl": "https://centova.hostingtico.com:7008/;",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15871/28709/conversions/wl11Z3XV9wP0MVUl8e8xr0XXm3uYXY-metaMTA1MV80MDB4NDAwLmpwZw%3D%3D--lg.webp",
+    "codec": "AAC",
+    "bitrate": 32,
+    "activo": true
+  },
+  {
+    "id": "besame-899",
+    "nombre": "Bésame 89.9 FM",
+    "provincia": "San José",
+    "genero": "Romántica, Pop",
+    "streamUrl": "https://mdstrm.com/audio/67377c6b827a7efae2faf358/live.m3u8?property=",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15693/82088/conversions/Q1tOnzyt6P9rYhlSTpLOQtL2uo037E-metaMjc2MDMwMDE2XzUyODc0OTg3MjEyNjExNjNfMzc5ODkwNjk1MjkzODE0MjY1OV9uLmpwZw%3D%3D--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "frecuencia-cci",
+    "nombre": "Frecuencia CCI",
+    "provincia": "San José",
+    "genero": "Cristiana, Gospel",
+    "streamUrl": "https://streaming.radio.co/s6729aeaac/listen",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "activo": true
+  },
+  {
+    "id": "radio-monumental-935",
+    "nombre": "Radio Monumental 93.5 FM",
+    "provincia": "San José",
+    "genero": "Noticias, Deportes",
+    "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/zbzsy31mnb4q/3/index.m3u8",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15158/24307/conversions/P6A3in6gxWFd7D1sjpnmOhbJdptQZw-metaNjYzOWVkYzg4NzhiNGY3NzEwNDY2ZDFlMTYwZWY0MTEuanBn--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "los-40-costa-rica",
+    "nombre": "Los 40 Costa Rica",
+    "provincia": "San José",
+    "genero": "Pop, Éxitos",
+    "streamUrl": "https://mdstrm.com/audio/67377bb4b95cc90e1002a0fc/live.m3u8?property=",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16405/32537/conversions/azFerejz2zzqUQlqkSLsym03Do30gz-metaa2F2N2d0Ym5la3JlLmpwZw%3D%3D--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "columbia-radio-987",
+    "nombre": "Columbia Radio 98.7 FM",
+    "provincia": "San José",
+    "genero": "Noticias, Deportes",
+    "streamUrl": "https://s2.radio.co/s83b86382e/listen",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15153/24300/conversions/Xl1VKjuYpp7v2SJ08X3Oc8Gk4OQHmf-metaczQxOWVhYTM1MC4yMDE5MDEyOTAyNDg0NC5qcGc%3D--lg.webp",
+    "codec": "MP3",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "la-caliente-907",
+    "nombre": "La Caliente 90.7 FM",
+    "provincia": "San José",
+    "genero": "Tropical, Salsa, Regional Mexicana",
+    "streamUrl": "https://mdstrm.com/audio/672d00c08cff752b2de2dc1f/live.m3u8?property=",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15682/27438/conversions/VovnaT0RZWLvDcUKbYSHP6v8uMXii2-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8ucG5n--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "exa-fm-costa-rica",
+    "nombre": "Exa FM Costa Rica",
+    "provincia": "San José",
+    "genero": "Pop, Dance, Entretenimiento",
+    "streamUrl": "https://d1rz8hhqbmi68h.cloudfront.net/3_2/index.m3u8",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15531/70007/conversions/sh3gBxAm1gHHCnOoweT4onlf8Ovx68-metaZXhhZm0ucG5n--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "clasicos-costa-rica-espanol",
+    "nombre": "Clásicos Costa Rica Español",
+    "provincia": "San José",
+    "genero": "Clásicos, Música del Recuerdo",
+    "streamUrl": "https://phoebe.streamerr.co:2140/;",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/17111/79768/conversions/Uw5JLNk1Pv4F6IYaWLfWU4f3r8wFTV-metaNDMwNjczNjg2XzEwNDMyMzQ1MzczMjE1MjBfMTEwMzI5MjIwNTQwNTA3MjEwMF9uLmpwZw%3D%3D--lg.webp",
+    "codec": "MP3",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "radio-disney-costa-rica",
+    "nombre": "Radio Disney Costa Rica 101.1 FM",
+    "provincia": "San José",
+    "genero": "Pop, Éxitos, Top 40",
+    "streamUrl": "https://26563.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/a6441c86-cdd8-4e7c-a0c6-f42e41c1f557/0/playlist.m3u8",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16016/29528/conversions/mnCNF6vJCckyrVAlSDNtOM0fow5Isb-metaOTEwMzgwNzE3NWEwMDcyZTU2MGJjMDUzOWViNWFjMTMuanBn--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "radio-88-stereo",
+    "nombre": "Radio 88 Stereo 88.7 FM",
+    "provincia": "Puntarenas",
+    "genero": "Pop Latino, Reggaetón, Tropical",
+    "streamUrl": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16480/32958/conversions/ra0hp25YQrZpufbOLGAJryu2Lz8bCf-metabG9nb2QuanBn--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "radio-maria-costa-rica",
+    "nombre": "Radio María Costa Rica 100.7 FM",
+    "provincia": "San José",
+    "genero": "Religiosa, Católica",
+    "streamUrl": "http://dreamsiteradiocp2.com:8044/stream",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15769/28000/conversions/r2TgmyMZTYslSRqeywIYUyksVfpWum-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8gKDIpLmpwZw%3D%3D--lg.webp",
+    "codec": "MP3",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "stereo-vision-983",
+    "nombre": "Stereo Visión 98.3 FM",
+    "provincia": "Cartago",
+    "genero": "Cristiana, Música Religiosa",
+    "streamUrl": "http://streams.y2kwebs.com:9984/;",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15709/27633/conversions/Ml6EgPk0yC3A6d50vuh2SN5UTDpocH-metaaW1hZ2VzLnBuZw%3D%3D--lg.webp",
+    "codec": "MP3",
+    "bitrate": 0,
+    "activo": false
+  },
+  {
+    "id": "radio-lira-887",
+    "nombre": "Radio Lira 88.7 FM",
+    "provincia": "Alajuela",
+    "genero": "Cristiana, Religiosa, Música",
+    "streamUrl": "http://streams.y2kwebs.com:9962/;",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16179/70013/conversions/tpLgH6sfB2N2tGhp4vJQCT0sq17MJW-metabGlyYV9yYWRpby5qcGc%3D--lg.webp",
+    "codec": "MP3",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "radio-shock-1063",
+    "nombre": "Radio Shock 106.3 FM",
+    "provincia": "Cartago",
+    "genero": "Rock, Pop, Baladas",
+    "streamUrl": "http://streams.y2kwebs.com:9986/;",
+    "logoUrl": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "la-mejor-991",
+    "nombre": "La Mejor 99.1 FM",
+    "provincia": "San José",
+    "genero": "Cumbia, Salsa, Merengue, Bachata",
+    "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/7tkjz1kikav2/3_2/index.m3u8",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15635/26925/conversions/wAYccmfkm7UgkCLqZfIsEdBTsB1YLl-metaMTU4OTg3NTUyMl9sYS1tZWpvci1jb3N0YS1yaWNhLnBuZw%3D%3D--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  },
+  {
+    "id": "crc-radio-891",
+    "nombre": "CRC 89.1 Radio",
+    "provincia": "San José",
+    "genero": "Noticias, Deportes, Actualidad",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15800/28212/conversions/O01qmixlrwYOVzUikrfOQhSutglQ2H-metaYjFfcFBhaGZfNDAweDQwMC5qcGc%3D--lg.webp",
+    "codec": "AAC",
+    "bitrate": 32,
+    "activo": true
+  },
+  {
+    "id": "zeta-fm-951",
+    "nombre": "Zeta FM 95.1",
+    "provincia": "San José",
+    "genero": "Salsa, Merengue, Bachata, Música Latina",
+    "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/g8hyucsfmkh9/3_2/index.m3u8",
+    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15356/25739/conversions/oFM1LYP3MFatOyBT0LFxhlCyM8gJZj-metaY1p4WlRtNTJ4WCAoMSkucG5n--lg.webp",
+    "codec": "AAC",
+    "bitrate": 0,
+    "activo": true
+  }
 ]
