@@ -254,7 +254,31 @@
   "codec": "MP3",
   "bitrate": 0,
   "activo": false
+},
+  
+{
+  "id": "radio-lira-887",
+  "nombre": "Radio Lira 88.7 FM",
+  "provincia": "Alajuela",
+  "genero": "Cristiana, Religiosa, Música",
+  "streamUrl": "http://streams.y2kwebs.com:9962/;",
+  "logoUrl": "",
+  "codec": "MP3",
+  "bitrate": 0,
+  "activo": true
+},
+{
+  "id": "radio-shock-1063",
+  "nombre": "Radio Shock 106.3 FM",
+  "provincia": "Cartago",
+  "genero": "Rock, Pop, Baladas",
+  "streamUrl": "http://streams.y2kwebs.com:9986/;",
+  "logoUrl": "",
+  "codec": "MP3",
+  "bitrate": 0,
+  "activo": true
 }
+
 
 
 
