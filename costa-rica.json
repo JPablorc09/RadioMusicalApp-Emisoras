@@ -290,17 +290,19 @@
   "bitrate": 64,
   "activo": true
 },
+
 {
   "id": "la-mejor-991",
   "nombre": "La Mejor 99.1 FM",
   "provincia": "San José",
   "genero": "Cumbia, Salsa, Merengue, Bachata",
-  "streamUrl": "http://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8",
+  "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/7tkjz1kikav2/3_2/index.m3u8",
   "logoUrl": "",
   "codec": "AAC",
   "bitrate": 0,
   "activo": true
 },
+
 {
   "id": "crc-radio-891",
   "nombre": "CRC 89.1 Radio",
@@ -311,7 +313,20 @@
   "codec": "AAC",
   "bitrate": 32,
   "activo": true
+},
+  
+{
+  "id": "zeta-fm-951",
+  "nombre": "Zeta FM 95.1",
+  "provincia": "San José",
+  "genero": "Salsa, Merengue, Bachata, Música Latina",
+  "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/g8hyucsfmkh9/3_2/index.m3u8",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": true
 }
+
 
 
 
