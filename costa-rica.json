@@ -109,5 +109,40 @@
     "codec": "MP3",
     "bitrate": 128,
     "activo": true
-  }
+  },
+  
+{
+  "id": "radio-omega-1051",
+  "nombre": "Radio Omega 105.1 FM",
+  "provincia": "San José",
+  "genero": "Pop, Salsa, Música Latina",
+  "streamUrl": "https://centova.hostingtico.com:7008/;",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 32,
+  "activo": true
+},
+{
+  "id": "besame-899",
+  "nombre": "Bésame 89.9 FM",
+  "provincia": "San José",
+  "genero": "Romántica, Pop",
+  "streamUrl": "https://mdstrm.com/audio/67377c6b827a7efae2faf358/live.m3u8?property=",
+  "logoUrl": "",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": true
+},
+{
+  "id": "frecuencia-cci",
+  "nombre": "Frecuencia CCI",
+  "provincia": "San José",
+  "genero": "Cristiana, Gospel",
+  "streamUrl": "https://streaming.radio.co/s6729aeaac/listen",
+  "logoUrl": "",
+  "codec": "MP3",
+  "bitrate": 192,
+  "activo": true
+}
+
 ]
