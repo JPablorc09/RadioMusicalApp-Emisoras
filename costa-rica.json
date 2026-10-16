@@ -1,4 +1,3 @@
-
 [
   {
     "id": "radio-musical-975",
@@ -20,7 +19,8 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15764/27902/conversions/kUFOa05teOPYrZHbgeqTwuVRRqJAlf-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8ucG5n--lg.webp",
     "codec": "MP3",
     "bitrate": 128,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "radio_co"
   },
   {
     "id": "radio-sinfonola",
@@ -42,7 +42,8 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16000/29438/conversions/l4i6Ela3SYpJIN3Jfb5x8UHEt4NAXP-metaaW1hZ2VtMDUwMjA1MTcxNDQwNTc2LmpwZw%3D%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 96,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "radio_co"
   },
   {
     "id": "faro-del-caribe",
@@ -86,7 +87,8 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16346/32340/conversions/x5KAu5kQiyNLxmmLKsQ173KBa8ZZZw-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8uamZpZg%3D%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 128,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "radio_co"
   },
   {
     "id": "urbano-106",
@@ -141,7 +143,8 @@
     "logoUrl": "",
     "codec": "MP3",
     "bitrate": 192,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "radio_co"
   },
   {
     "id": "radio-monumental-935",
@@ -174,7 +177,8 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15153/24300/conversions/Xl1VKjuYpp7v2SJ08X3Oc8Gk4OQHmf-metaczQxOWVhYTM1MC4yMDE5MDEyOTAyNDg0NC5qcGc%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 0,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "radio_co"
   },
   {
     "id": "la-caliente-907",
