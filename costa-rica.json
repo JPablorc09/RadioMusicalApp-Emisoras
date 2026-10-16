@@ -8,7 +8,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15700/27598/conversions/DniJkBrcyVoHQqpTuucX8BtO6SkpFs-metaYzMwMC5wbmc%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 64,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://live.turadio.stream:7005/stats?sid=1&json=1"
   },
   {
     "id": "radio-dos",
@@ -31,7 +33,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15862/28678/conversions/ESKFoK4kr4tYijxqBP5mts0jp0A42g-metaaW5kZXgucG5n--lg.webp",
     "codec": "MP3",
     "bitrate": 64,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://live.turadio.stream:7006/stats?sid=1&json=1"
   },
   {
     "id": "columbia-estereo",
@@ -67,7 +71,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16004/29480/conversions/EAUoONxpWYDjC5OKHQeR2H8xeEm711-metabG9nby1yYWRpby1oaXQuanBn--lg.webp",
     "codec": "MP3",
     "bitrate": 64,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://live.turadio.stream:7004/stats?sid=1&json=1"
   },
   {
     "id": "radio-nosara",
@@ -78,7 +84,9 @@
     "logoUrl": "",
     "codec": "MP3",
     "bitrate": 128,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://sonicpanel.zonaradio.net/8038/currentsong?sid=1"
   },
   {
     "id": "jazz-radio-955",
@@ -139,7 +147,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15693/82088/conversions/Q1tOnzyt6P9rYhlSTpLOQtL2uo037E-metaMjc2MDMwMDE2XzUyODc0OTg3MjEyNjExNjNfMzc5ODkwNjk1MjkzODE0MjY1OV9uLmpwZw%3D%3D--lg.webp",
     "codec": "AAC",
     "bitrate": 0,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "personalizado",
+    "metadataUrl": "https://platform.s-mdstrm.com/events/nowplaying/67377c6b827a7efae2faf358.json"
   },
   {
     "id": "frecuencia-cci",
@@ -173,7 +183,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16405/32537/conversions/azFerejz2zzqUQlqkSLsym03Do30gz-metaa2F2N2d0Ym5la3JlLmpwZw%3D%3D--lg.webp",
     "codec": "AAC",
     "bitrate": 0,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "personalizado",
+    "metadataUrl": "https://platform.s-mdstrm.com/events/nowplaying/67377bb4b95cc90e1002a0fc.json"
   },
   {
     "id": "columbia-radio-987",
@@ -196,7 +208,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15682/27438/conversions/VovnaT0RZWLvDcUKbYSHP6v8uMXii2-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8ucG5n--lg.webp",
     "codec": "AAC",
     "bitrate": 0,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "personalizado",
+    "metadataUrl": "https://platform.s-mdstrm.com/events/nowplaying/672d00c08cff752b2de2dc1f.json"
   },
   {
     "id": "exa-fm-costa-rica",
