@@ -90,7 +90,7 @@
     "activo": true,
     "tipoMetadatos": "radio_co"
   },
-  {
+{
   "id": "urbano-106",
   "nombre": "Urbano 106",
   "provincia": "San José",
@@ -100,8 +100,10 @@
   "codec": "AAC",
   "bitrate": 64,
   "activo": true,
-  "tipoMetadatos": "shoutcast"
+  "tipoMetadatos": "shoutcast",
+  "metadataUrl": "https://usa18.fastcast4u.com/proxy/rmoohhrw/stats?sid=1&json=1"
 },
+
   {
     "id": "club-dance-music",
     "nombre": "Club Dance Music",
