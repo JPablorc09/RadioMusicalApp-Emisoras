@@ -54,7 +54,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16049/29797/conversions/eeoZPXru4dxxHnQE8If63AmtsxGrXk-metaZmFyb2RlbGNhcmliZWxvZ28uanBn--lg.webp",
     "codec": "MP3",
     "bitrate": 128,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://sp.unoredcdn.net:8032/stats?sid=1&json=1"
   },
   {
     "id": "radio-hit-1047",
@@ -124,7 +126,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15871/28709/conversions/wl11Z3XV9wP0MVUl8e8xr0XXm3uYXY-metaMTA1MV80MDB4NDAwLmpwZw%3D%3D--lg.webp",
     "codec": "AAC",
     "bitrate": 32,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://centova.hostingtico.com:7008/stats?sid=1&json=1"
   },
   {
     "id": "besame-899",
@@ -214,7 +218,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/17111/79768/conversions/Uw5JLNk1Pv4F6IYaWLfWU4f3r8wFTV-metaNDMwNjczNjg2XzEwNDMyMzQ1MzczMjE1MjBfMTEwMzI5MjIwNTQwNTA3MjEwMF9uLmpwZw%3D%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 0,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "https://phoebe.streamerr.co:2140/stats?sid=1&json=1"
   },
   {
     "id": "radio-disney-costa-rica",
@@ -247,7 +253,9 @@
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15769/28000/conversions/r2TgmyMZTYslSRqeywIYUyksVfpWum-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8gKDIpLmpwZw%3D%3D--lg.webp",
     "codec": "MP3",
     "bitrate": 0,
-    "activo": true
+    "activo": true,
+    "tipoMetadatos": "shoutcast",
+    "metadataUrl": "http://dreamsiteradiocp2.com:8044/stats?sid=1&json=1"
   },
   {
     "id": "stereo-vision-983",
