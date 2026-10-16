@@ -91,16 +91,17 @@
     "tipoMetadatos": "radio_co"
   },
   {
-    "id": "urbano-106",
-    "nombre": "Urbano 106",
-    "provincia": "San José",
-    "genero": "Urbana",
-    "streamUrl": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
-    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16019/46143/conversions/QRk90teMCodXxtqMLexapY8r8xucwQ-metabG9nbyB1cmJhbm8gbmVncm8ucG5n--lg.webp",
-    "codec": "AAC",
-    "bitrate": 64,
-    "activo": true
-  },
+  "id": "urbano-106",
+  "nombre": "Urbano 106",
+  "provincia": "San José",
+  "genero": "Urbana",
+  "streamUrl": "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+  "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16019/46143/conversions/QRk90teMCodXxtqMLexapY8r8xucwQ-metabG9nbyB1cmJhbm8gbmVncm8ucG5n--lg.webp",
+  "codec": "AAC",
+  "bitrate": 64,
+  "activo": true,
+  "tipoMetadatos": "shoutcast"
+},
   {
     "id": "club-dance-music",
     "nombre": "Club Dance Music",
