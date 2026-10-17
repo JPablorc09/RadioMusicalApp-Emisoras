@@ -244,7 +244,7 @@
   "nombre": "Radio Disney Costa Rica 101.1 FM",
   "provincia": "San José",
   "genero": "Pop, Éxitos, Top 40",
-  "streamUrl": "https://24403.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/bc30601a-700e-4ef3-8b0a-7a1dfd00120c/0/playlist.m3u",
+  "streamUrl": "https://26673.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/playlist.m3u8",
   "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16016/29528/conversions/mnCNF6vJCckyrVAlSDNtOM0fow5Isb-metaOTEwMzgwNzE3NWEwMDcyZTU2MGJjMDUzOWViNWFjMTMuanBn--lg.webp",
   "codec": "AAC",
   "bitrate": 0,
@@ -284,28 +284,7 @@
     "bitrate": 0,
     "activo": false
   },
-  {
-    "id": "radio-lira-887",
-    "nombre": "Radio Lira 88.7 FM",
-    "provincia": "Alajuela",
-    "genero": "Cristiana, Religiosa, Música",
-    "streamUrl": "http://streams.y2kwebs.com:9962/;",
-    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16179/70013/conversions/tpLgH6sfB2N2tGhp4vJQCT0sq17MJW-metabGlyYV9yYWRpby5qcGc%3D--lg.webp",
-    "codec": "MP3",
-    "bitrate": 0,
-    "activo": true
-  },
-  {
-    "id": "radio-shock-1063",
-    "nombre": "Radio Shock 106.3 FM",
-    "provincia": "Cartago",
-    "genero": "Rock, Pop, Baladas",
-    "streamUrl": "http://streams.y2kwebs.com:9986/;",
-    "logoUrl": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "activo": true
-  },
+ 
   {
     "id": "la-mejor-991",
     "nombre": "La Mejor 99.1 FM",
