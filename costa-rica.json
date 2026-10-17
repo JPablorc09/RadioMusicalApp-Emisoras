@@ -236,41 +236,43 @@
     "tipoMetadatos": "shoutcast",
     "metadataUrl": "https://phoebe.streamerr.co:2140/stats?sid=1&json=1"
   },
-  {
-    "id": "radio-disney-costa-rica",
-    "nombre": "Radio Disney Costa Rica 101.1 FM",
-    "provincia": "San José",
-    "genero": "Pop, Éxitos, Top 40",
-    "streamUrl": "https://27443.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/28160be8-3566-4496-93c1-80a525b92a4e/0/playlist.m3u8",
-    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16016/29528/conversions/mnCNF6vJCckyrVAlSDNtOM0fow5Isb-metaOTEwMzgwNzE3NWEwMDcyZTU2MGJjMDUzOWViNWFjMTMuanBn--lg.webp",
-    "codec": "AAC",
-    "bitrate": 0,
-    "activo": true
-  },
-  {
-    "id": "radio-88-stereo",
-    "nombre": "Radio 88 Stereo 88.7 FM",
-    "provincia": "Puntarenas",
-    "genero": "Pop Latino, Reggaetón, Tropical",
-    "streamUrl": "https://27443.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/28160be8-3566-4496-93c1-80a525b92a4e/0/playlist.m3u8",
-    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16480/32958/conversions/ra0hp25YQrZpufbOLGAJryu2Lz8bCf-metabG9nb2QuanBn--lg.webp",
-    "codec": "AAC",
-    "bitrate": 0,
-    "activo": true
-  },
-  {
-    "id": "radio-maria-costa-rica",
-    "nombre": "Radio María Costa Rica 100.7 FM",
-    "provincia": "San José",
-    "genero": "Religiosa, Católica",
-    "streamUrl": "https://s1.tvdatta.com:3972/live/88stereolive.m3u8",
-    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15769/28000/conversions/r2TgmyMZTYslSRqeywIYUyksVfpWum-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8gKDIpLmpwZw%3D%3D--lg.webp",
-    "codec": "MP3",
-    "bitrate": 0,
-    "activo": true,
-    "tipoMetadatos": "shoutcast",
-    "metadataUrl": "http://dreamsiteradiocp2.com:8044/stats?sid=1&json=1"
-  },
+
+
+
+{
+  "id": "radio-disney-costa-rica",
+  "nombre": "Radio Disney Costa Rica 101.1 FM",
+  "provincia": "San José",
+  "genero": "Pop, Éxitos, Top 40",
+  "streamUrl": "https://24403.live.streamtheworld.com/DISNEY_CRI_SJ_ADP/HLS/bc30601a-700e-4ef3-8b0a-7a1dfd00120c/0/playlist.m3u",
+  "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16016/29528/conversions/mnCNF6vJCckyrVAlSDNtOM0fow5Isb-metaOTEwMzgwNzE3NWEwMDcyZTU2MGJjMDUzOWViNWFjMTMuanBn--lg.webp",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": true
+},
+{
+  "id": "radio-88-stereo",
+  "nombre": "Radio 88 Stereo 88.7 FM",
+  "provincia": "San José",
+  "genero": "Pop Latino, Reggaetón, Tropical",
+  "streamUrl": "https://s1.tvdatta.com:3972/live/88stereolive.m3u8",
+  "logoUrl": "https://radios-de-costa-rica.com/storage/radios/16480/32958/conversions/ra0hp25YQrZpufbOLGAJryu2Lz8bCf-metabG9nb2QuanBn--lg.webp",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": true
+},
+{
+  "id": "radio-maria-costa-rica",
+  "nombre": "Radio María Costa Rica 100.7 FM",
+  "provincia": "San José",
+  "genero": "Religiosa, Católica",
+  "streamUrl": "http://dreamsiteradiocp2.com:8044/stream",
+  "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15769/28000/conversions/r2TgmyMZTYslSRqeywIYUyksVfpWum-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8gKDIpLmpwZw%3D%3D--lg.webp",
+  "codec": "MP3",
+  "bitrate": 64,
+  "activo": true
+},
+
   {
     "id": "stereo-vision-983",
     "nombre": "Stereo Visión 98.3 FM",
@@ -326,15 +328,17 @@
     "bitrate": 32,
     "activo": true
   },
-  {
-    "id": "zeta-fm-951",
-    "nombre": "Zeta FM 95.1",
-    "provincia": "San José",
-    "genero": "Salsa, Merengue, Bachata, Música Latina",
-    "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/g8hyucsfmkh9/3_2/index.m3u8",
-    "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15356/25739/conversions/oFM1LYP3MFatOyBT0LFxhlCyM8gJZj-metaY1p4WlRtNTJ4WCAoMSkucG5n--lg.webp",
-    "codec": "AAC",
-    "bitrate": 0,
-    "activo": true
-  }
+ 
+{
+  "id": "zeta-fm-951",
+  "nombre": "Zeta FM 95.1",
+  "provincia": "San José",
+  "genero": "Salsa, Merengue, Bachata, Música Latina",
+  "streamUrl": "https://d3487bptzruln7.cloudfront.net/hls/g8hyucsfmkh9/3_2/index.m3u8",
+  "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15356/25739/conversions/oFM1LYP3MFatOyBT0LFxhlCyM8gJZj-metaY1p4WlRtNTJ4WCAoMSkucG5n--lg.webp",
+  "codec": "AAC",
+  "bitrate": 0,
+  "activo": false
+}
+
 ]
