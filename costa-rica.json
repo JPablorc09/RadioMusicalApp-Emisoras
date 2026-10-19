@@ -217,7 +217,7 @@
     "nombre": "Exa FM Costa Rica",
     "provincia": "San José",
     "genero": "Pop, Dance, Entretenimiento",
-    "streamUrl": "https://d1rz8hhqbmi68h.cloudfront.net/3_2/index.m3u8",
+    "streamUrl": "https://dyufg65bt73z6.cloudfront.net/3_2/index.m3u8",
     "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15531/70007/conversions/sh3gBxAm1gHHCnOoweT4onlf8Ovx68-metaZXhhZm0ucG5n--lg.webp",
     "codec": "AAC",
     "bitrate": 0,
@@ -317,7 +317,7 @@
   "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15356/25739/conversions/oFM1LYP3MFatOyBT0LFxhlCyM8gJZj-metaY1p4WlRtNTJ4WCAoMSkucG5n--lg.webp",
   "codec": "AAC",
   "bitrate": 0,
-  "activo": false
+  "activo": true
 }
 
 ]
