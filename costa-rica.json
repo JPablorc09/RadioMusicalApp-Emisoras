@@ -261,18 +261,6 @@
   "bitrate": 0,
   "activo": true
 },
-{
-  "id": "radio-maria-costa-rica",
-  "nombre": "Radio María Costa Rica 100.7 FM",
-  "provincia": "San José",
-  "genero": "Religiosa, Católica",
-  "streamUrl": "http://dreamsiteradiocp2.com:8044/stream",
-  "logoUrl": "https://radios-de-costa-rica.com/storage/radios/15769/28000/conversions/r2TgmyMZTYslSRqeywIYUyksVfpWum-meta0JHQtdC3INC90LDQt9Cy0LDQvdC40Y8gKDIpLmpwZw%3D%3D--lg.webp",
-  "codec": "MP3",
-  "bitrate": 64,
-  "activo": true
-},
-
   {
     "id": "stereo-vision-983",
     "nombre": "Stereo Visión 98.3 FM",
